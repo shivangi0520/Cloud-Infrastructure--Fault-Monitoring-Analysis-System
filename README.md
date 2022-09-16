@@ -1,4 +1,4 @@
-# Cloud-Infrastructure--Fault-Monitoring-Analysis-System
+# Cloud-Infrastructure-Fault-Monitoring-Analysis-System
 • Analysis of the system logs provides us useful information for identifying system/application`s important knowledge that helps in better usage of system resources.
 
 • Although, it is not simple task to just scan through every raw log message on a regular basis for large-scale systems. The two most difficult task in reading logs are firstly the volume of these unstructured log messages and secondly correlating the log messages to system events.
